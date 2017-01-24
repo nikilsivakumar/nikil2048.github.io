@@ -984,7 +984,7 @@ a.learn:hover, a.keep-playing-button:hover, a.learn-low:hover {
 }
 .restart-button, a.retry-button {
   display: inline-block;
-  background: #ffffff;
+  background: #000000;
   border-radius: 3px;
   padding: 0 20px;
   text-decoration: none;
@@ -1002,7 +1002,7 @@ a.retry-button, a.learn-low {
   height: 40px;
   padding: 0;
   border-radius: 0;
-  background-color:black;
+  background-color:white;
   display: inline-block;
   margin: 0;
   line-height: 42px;
